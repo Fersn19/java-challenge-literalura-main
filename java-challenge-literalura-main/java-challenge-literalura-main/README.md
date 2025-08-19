@@ -5,7 +5,7 @@
     <br />
     <br />
     <a href="https://github.com/Fersn19/java-challenge-literalura">
-      <img src="https://github.com/Fersn19/java-challenge-literalura/blob/main/src/main/resources/fondo.png" alt="♨️ imagen-LiterAlura ⚙️">
+      <img src="https://github.com/Fersn19/java-challenge-literalura-main/blob/main/src/main/resources/fondo.png" alt="♨️ imagen-LiterAlura ⚙️">
     </a>
   </h1>
 </div>
